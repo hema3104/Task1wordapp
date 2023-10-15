@@ -1,0 +1,20 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  background: #eee;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.word-count {
+  color: grey;
+  font-weight: bold;
+}
+
+
+
